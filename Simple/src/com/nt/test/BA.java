@@ -6,7 +6,6 @@ public class BA {
 		// TODO Auto-generated method stubs
 		System.out.println("BA.main()12");
 		System.out.println("BA.main()");
-System.out.println("");
 
 	}
 
